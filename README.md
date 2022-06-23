@@ -1,7 +1,7 @@
 Hi 👋 My name is Jordan Robison
 ===============================
 
-Computer Engineer
+Software Engineer
 -----------------
 
 I graduated from Cleveland State University with a Computer Engineering major and a Math and Computer Science minor. I really enjoy software development and engaging with new technologies.
